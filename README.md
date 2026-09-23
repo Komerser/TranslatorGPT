@@ -80,7 +80,10 @@ TranslatorGPT 并不认为：
 | ------------------ | ------------- | ------: | ----: |
 | **《1984》**         | George Orwell | English | ✅ 已完成 |
 | **《劝学篇 / 学問のすゝめ》** | 福泽谕吉          |     日本語 | ✅ 已完成 |
+| **《论出版自由》（Areopagitica）** | John Milton | English | ✅ 已完成 |
 
+> 《1984》的完整译稿暂未纳入仓库；目前仅收录术语表和翻译守则，待确认全文及原文底本的发布依据后再补入。
+>
 > 更多作品将持续加入。
 
 ---
@@ -342,11 +345,14 @@ TranslatorGPT/
 │   │   ├── translation_rules.md
 │   │   └── README.md
 │   │
+│   ├── areopagitica/
+│   │   ├── original/
+│   │   ├── translation/
+│   │   └── README.md
+│   │
 │   └── gakumon-no-susume/
 │       ├── original/
 │       ├── translation/
-│       ├── glossary.md
-│       ├── translation_rules.md
 │       └── README.md
 │
 └── docs/
